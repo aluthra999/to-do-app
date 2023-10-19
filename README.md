@@ -1,6 +1,7 @@
 # To-Do App
 
 A simple and feature-rich To-Do application built with Python and tkinter.
+![TinDog Logo](screenshot.png)
 
 ## Table of Contents
 
